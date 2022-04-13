@@ -1,0 +1,12 @@
+{
+    "author": {
+        "mail": "",
+        "name": "",
+        "website": ""
+    },
+    "display_string": "Notes",
+    "fa-icon": "fa fa-store",
+    "module_name": "notes",
+    "type": "show",
+    "url_prefix": "/"
+}
